@@ -1,1 +1,1 @@
- excludesfile = ../Env_Setup/postgres-data/*
+ excludesfile = ./Env_Setup/postgres-data/*
